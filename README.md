@@ -1,5 +1,6 @@
 ### 🔥 My Name is Haeram Choi! 🔥
 > Age - 17!
+
 > Hobby - Game, Programing, Video editing
 ### ⭐ My favorite language is Python! ⭐
 >  Java and C# are also studying!
