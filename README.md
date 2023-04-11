@@ -11,6 +11,7 @@
 
 > 자바를 더 깊게 알고싶은 사람
 
+> Ai에도 관심이 있음!
 <!--
 **Ha2ram17/Ha2ram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
