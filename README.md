@@ -3,11 +3,11 @@
 ### ⭐ My favorite language is Python! ⭐
 
 ### 💎 introduce me! 💎
-성일정보고등학교 재학 중
+> 성일정보고등학교 재학 중
 
-게임개발동아리 부원
+> 게임개발동아리 부원
 
-자바를 더 깊게 알고싶은 사람
+> 자바를 더 깊게 알고싶은 사람
 
 <!--
 **Ha2ram17/Ha2ram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
