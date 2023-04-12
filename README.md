@@ -12,6 +12,8 @@
 > 자바를 더 깊게 알고싶은 사람
 
 > Ai에도 관심이 있음!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hangyeol0516&show_icons=true&theme=radical)
 <!--
 **Ha2ram17/Ha2ram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
