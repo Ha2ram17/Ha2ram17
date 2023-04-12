@@ -14,7 +14,7 @@
 
 > 자바를 더 깊게 알고싶은 사람
 
-> Ai에도 관심이 있음!
+> Ai에도 관심이 있음! - 삼성주니어 SW 아카데미 Ai 교육 프로그램 참여 중
 
 ### 💥 My GitHub stat! 💥
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=radical)
