@@ -16,7 +16,6 @@
 
 > Ai에도 관심이 있음!
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=biud436&show_icons=true)
 
 <!--
 **Ha2ram17/Ha2ram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
