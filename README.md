@@ -7,6 +7,7 @@
 > Hobby - Game, Programing, Video editing
 ### ⭐ My favorite language is Python! ⭐
 >  Java and C# are also studying!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ha2ram17ID&layout=compact&theme=dark&langs_count=3swift)](https://github.com/anuraghazra/github-readme-stats)
 ### 💎 introduce me! 💎
 > 성일정보고등학교 재학 중
 
