@@ -2,12 +2,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
 
 ### 🔥 My Name is Haeram Choi! 🔥
+  ---------------------
 > Age - 17 Years!
-
+> 
 > Hobby - Game, Programing, Video editing
 ### ⭐ My favorite language is Python! ⭐
+  ---------------------
 >  Java and C# are also studying!
 ### 💎 introduce me! 💎
+  ---------------------
 > 성일정보고등학교 재학 중
 
 > 게임개발동아리 부원
