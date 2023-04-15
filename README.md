@@ -17,6 +17,7 @@
 > Ai에도 관심이 있음! - 삼성주니어 SW 아카데미 Ai 교육 프로그램 참여 중
 
 ### 💥 My GitHub stat! 💥
+  ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=swift)
 <!--
 **Ha2ram17/Ha2ram17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
