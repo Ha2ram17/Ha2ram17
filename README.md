@@ -4,7 +4,7 @@
 ### 🔥 My Name is Haeram Choi! 🔥
   ---------------------
 > Age - 17 Years!
-> 
+
 > Hobby - Game, Programing, Video editing
 ### ⭐ My favorite language is Python! ⭐
   ---------------------
@@ -17,7 +17,9 @@
 
 > 자바를 더 깊게 알고싶은 사람
 
-> Ai에도 관심이 있음! - 삼성주니어 SW 아카데미 Ai 교육 프로그램 참여 중
+> Ai라는 분야를 흥미롭게 생각합니다.
+
+> 다양한 분야의 공부를 추구합니다. - Kaggle 대회 참여, 삼성 SW Ai 교육 받는 중 
 
 ### 💥 My GitHub stat! 💥
   ---------------------
