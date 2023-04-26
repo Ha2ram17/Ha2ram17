@@ -18,9 +18,6 @@ Java and C# are also studying!
 | 게임개발동아리 부원 | 2023. 03 ~ 현재  | Sungil Game Develop Group |
 | SSS 소프트웨어 스터디 | 2023. 03 ~ 현재 | Sungil software Study Group |
 
-게임개발동아리 부원
-
-자바를 더 깊게 알고싶은 사람
 
 Ai라는 분야를 흥미롭게 생각합니다.
 
