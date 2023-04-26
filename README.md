@@ -12,7 +12,7 @@ Hobby - Game, Programing, Video editing
 Java and C# are also studying! 
 ### 💎 introduce me! 💎
   ---------------------
- | What | When | How | Where |
+ | What | When | Where |
 |:--------:|:--------:|:--------:|:--------:|
 | 성일정보고등학교 소프트웨어개발과 재학 중 | 2023. 03 ~ 현재 | Sungil Information High School |
 | 게임개발동아리 부원 | 2023. 03 ~ 현재  | Sungil Game Develop Group |
