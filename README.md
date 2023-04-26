@@ -9,7 +9,7 @@ Age - 17 Years!
 Hobby - Game, Programing, Video editing 
 ### ⭐ My favorite language is Python! ⭐ 
   ---------------------
-Java and C# are also studying! 
+I am also studying Java and c#
 ### 💎 introduce me! 💎
   ---------------------
  | What | When | Where |
