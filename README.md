@@ -11,9 +11,11 @@
   ---------------------
 ### 𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
 
- | 𝐏𝐲𝐭𝐡𝐨𝐧 | 𝐂# | 𝐉𝐚𝐯𝐚 |
+ | 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 | 𝐄𝐓𝐂 | 𝐄𝐝𝐢𝐭𝐨𝐫 |
 |:--------:|:--------:|:--------:|
-| ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) ||![Git Hub](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|
+| ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|![Eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)|
+|[Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |||
  
  # 𝐂𝐚𝐫𝐫𝐞𝐫
   ---------------------
