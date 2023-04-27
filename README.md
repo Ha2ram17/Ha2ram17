@@ -22,8 +22,9 @@ I am also studying Java and c#
 ### 💥 My GitHub stat! 💥
   ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=swift)
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
  
 ### My instargram!
   ---------------------
 <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+ 
+ ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
