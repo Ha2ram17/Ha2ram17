@@ -26,4 +26,4 @@ I am also studying Java and c#
  
 ### My instargram!
   ---------------------
-<a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
