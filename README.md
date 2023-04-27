@@ -4,12 +4,12 @@
 
 # 🔥 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐇𝐚𝐞𝐫𝐚𝐦 𝐂𝐡𝐨𝐢! 🔥
   ---------------------
-𝐀𝐠𝐞 - 𝟏𝟕 𝐘𝐞𝐚𝐫𝐬! 
+### 𝐀𝐠𝐞 - 𝟏𝟕 𝐘𝐞𝐚𝐫𝐬! 
 
-𝐇𝐨𝐛𝐛𝐲 - 𝐆𝐚𝐦𝐞, 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐢𝐧𝐠, 𝐕𝐢𝐝𝐞𝐨 𝐞𝐝𝐢𝐭𝐢𝐧𝐠 
+### 𝐇𝐨𝐛𝐛𝐲 - 𝐆𝐚𝐦𝐞, 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐢𝐧𝐠, 𝐕𝐢𝐝𝐞𝐨 𝐞𝐝𝐢𝐭𝐢𝐧𝐠 
 # ⭐ 𝐌𝐲 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧! ⭐ 
   ---------------------
-𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
+### 𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
 
  | 𝐏𝐲𝐭𝐡𝐨𝐧 | 𝐂# | 𝐉𝐚𝐯𝐚 |
 |:--------:|:--------:|:--------:|
@@ -31,6 +31,6 @@
  
 # 𝐌𝐲 𝐢𝐧𝐬𝐭𝐚𝐫𝐠𝐫𝐚𝐦!
   ---------------------
-| <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> |
+#| <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> |
 
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
