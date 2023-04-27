@@ -19,7 +19,7 @@
 | ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|![Eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)|
 |![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) ||![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)|
  
- # 𝐂𝐚𝐫𝐫𝐞𝐫
+ # 🚀 𝐂𝐚𝐫𝐫𝐞𝐫 🚀
   ---------------------
  | 𝐖𝐡𝐚𝐭 | 𝐖𝐡𝐞𝐧 | 𝐖𝐡𝐞𝐫𝐞 |
 |:--------:|:--------:|:--------:|
@@ -33,7 +33,7 @@
   ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=swift)
  
-# 𝐌𝐲 𝐢𝐧𝐬𝐭𝐚𝐫𝐠𝐫𝐚𝐦!
+# 🌸 𝐌𝐲 𝐢𝐧𝐬𝐭𝐚𝐫𝐠𝐫𝐚𝐦! 🌸
   ---------------------
 | <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> |
 
