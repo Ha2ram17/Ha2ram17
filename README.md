@@ -9,8 +9,7 @@ Age - 17 Years!
 Hobby - Game, Programing, Video editing 
 ### ⭐ My favorite language is Python! ⭐ 
   ---------------------
-I am also studying Java and c#
-### 💎 introduce me! 💎
+I am also studying Java and c# 
   ---------------------
  | What | When | Where |
 |:--------:|:--------:|:--------:|
@@ -24,3 +23,7 @@ I am also studying Java and c#
   ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=swift)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
+ 
+### My instargram!
+  ---------------------
+<a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/2solees-43B02A?style=flat&logo=Instagram&logoColor=white"/></a>
