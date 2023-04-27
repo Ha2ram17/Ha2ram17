@@ -9,7 +9,9 @@ Age - 17 Years!
 Hobby - Game, Programing, Video editing 
 ### ⭐ My favorite language is Python! ⭐ 
   ---------------------
-I am also studying Java and c# 
+I am also studying Java and c#
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   ---------------------
  | What | When | Where |
 |:--------:|:--------:|:--------:|
@@ -25,7 +27,6 @@ I am also studying Java and c#
  
 ### My instargram!
   ---------------------
- <div align="center">
 <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- <div align="center">
+
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
