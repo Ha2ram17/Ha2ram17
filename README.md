@@ -15,7 +15,7 @@
 |:--------:|:--------:|:--------:|
 | ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)|![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|
 | ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)|![Eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white)|
-|![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |||
+|![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |||![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)|
  
  # 𝐂𝐚𝐫𝐫𝐞𝐫
   ---------------------
