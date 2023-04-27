@@ -10,7 +10,9 @@
 # ⭐ 𝐌𝐲 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧! ⭐ 
   ---------------------
 ### 𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
-
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
+ 
  | 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 | 𝐄𝐓𝐂 | 𝐄𝐝𝐢𝐭𝐨𝐫 |
 |:--------:|:--------:|:--------:|
 | ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)|![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)|![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000.svg?style=for-the-badge&logo=visual-studio&logoColor=white)|
