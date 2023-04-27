@@ -25,6 +25,7 @@ I am also studying Java and c#
  
 ### My instargram!
   ---------------------
+ <div align="center">
 <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
- 
+ <div align="center">
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
