@@ -2,34 +2,34 @@
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Well%20Come&fontSize=90)
 
-### 🔥 My Name is Haeram Choi! 🔥
+### 🔥 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 𝐇𝐚𝐞𝐫𝐚𝐦 𝐂𝐡𝐨𝐢! 🔥
   ---------------------
-Age - 17 Years! 
+𝐀𝐠𝐞 - 𝟏𝟕 𝐘𝐞𝐚𝐫𝐬! 
 
-Hobby - Game, Programing, Video editing 
-### ⭐ My favorite language is Python! ⭐ 
+𝐇𝐨𝐛𝐛𝐲 - 𝐆𝐚𝐦𝐞, 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐢𝐧𝐠, 𝐕𝐢𝐝𝐞𝐨 𝐞𝐝𝐢𝐭𝐢𝐧𝐠 
+### ⭐ 𝐌𝐲 𝐟𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐢𝐬 𝐏𝐲𝐭𝐡𝐨𝐧! ⭐ 
   ---------------------
-I am also studying Java and c#
+𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
 
- | Python | C# | Java |
+ | 𝐏𝐲𝐭𝐡𝐨𝐧 | 𝐂# | 𝐉𝐚𝐯𝐚 |
 |:--------:|:--------:|:--------:|
 | ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
  
- ### Carrer
+ ### 𝐂𝐚𝐫𝐫𝐞𝐫
   ---------------------
- | What | When | Where |
+ | 𝐖𝐡𝐚𝐭 | 𝐖𝐡𝐞𝐧 | 𝐖𝐡𝐞𝐫𝐞 |
 |:--------:|:--------:|:--------:|
-| 성일정보고등학교 소프트웨어개발과 재학 중 | 2023. 03 ~ 현재 | Sungil Information High School |
-| 게임개발동아리 부원 | 2023. 03 ~ 현재  | Sungil Information High School Game Development Club |
-| SSS 소프트웨어 스터디 부원 | 2023. 03 ~ 현재 | Sungil Software Study Founded (SSS)|
-| 2023 삼성주니어 AI 소프트웨어 교육 수료 | 2023. 04. 04. ~ 2023. 04. 26.  | 2023 Samsung Junior AI Software Education Program |
-| Kaggle 머신러닝 대회 참여 | 2023. 04. 20. | Kaggle - [Titanic - Machine Learning from Disaster] |
+| 성일정보고등학교 소프트웨어개발과 재학 중 | 2023. 03 ~ 현재 | 𝐒𝐮𝐧𝐠𝐢𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥 |
+| 게임개발동아리 부원 | 2023. 03 ~ 현재  | 𝐒𝐮𝐧𝐠𝐢𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐇𝐢𝐠𝐡 𝐒𝐜𝐡𝐨𝐨𝐥 𝐆𝐚𝐦𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐂𝐥𝐮𝐛 |
+| SSS 소프트웨어 스터디 부원 | 2023. 03 ~ 현재 | 𝐒𝐮𝐧𝐠𝐢𝐥 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐒𝐭𝐮𝐝𝐲 𝐅𝐨𝐮𝐧𝐝𝐞𝐝 (𝐒𝐒𝐒)|
+| 2023 삼성주니어 AI 소프트웨어 교육 수료 | 𝟚𝟘𝟚𝟛. 𝟘𝟜. 𝟘𝟜. ~ 𝟚𝟘𝟚𝟛. 𝟘𝟜. 𝟚𝟞.  | 𝟐𝟎𝟐𝟑 𝐒𝐚𝐦𝐬𝐮𝐧𝐠 𝐉𝐮𝐧𝐢𝐨𝐫 𝐀𝐈 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 |
+| Kaggle 머신러닝 대회 참여 | 𝟚𝟘𝟚𝟛. 𝟘𝟜. 𝟚𝟘. | 𝐊𝐚𝐠𝐠𝐥𝐞 - [𝐓𝐢𝐭𝐚𝐧𝐢𝐜 - 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐃𝐢𝐬𝐚𝐬𝐭𝐞𝐫] |
 
-### 💥 My GitHub stat! 💥
+### 💥 𝐌𝐲 𝐆𝐢𝐭𝐇𝐮𝐛 𝐬𝐭𝐚𝐭! 💥
   ---------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ha2ram17&show_icons=true&theme=swift)
  
-### My instargram!
+### 𝐌𝐲 𝐢𝐧𝐬𝐭𝐚𝐫𝐠𝐫𝐚𝐦!
   ---------------------
 | <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> |
 
