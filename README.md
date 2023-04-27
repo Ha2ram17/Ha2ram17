@@ -11,9 +11,10 @@ Hobby - Game, Programing, Video editing
   ---------------------
 I am also studying Java and c#
 
-![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+| ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| ![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
  
  ### Carrer
   ---------------------
@@ -31,6 +32,6 @@ I am also studying Java and c#
  
 ### My instargram!
   ---------------------
-<a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+| <a href="https://www.instagram.com/gofka.o_a/" target="_blank"><img src="https://img.shields.io/badge/gofka.o_a-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> |
 
  ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&height=150)
