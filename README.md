@@ -10,8 +10,9 @@ Hobby - Game, Programing, Video editing
 ### ⭐ My favorite language is Python! ⭐ 
   ---------------------
 I am also studying Java and c#
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-000000.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ---------------------
  | What | When | Where |
 |:--------:|:--------:|:--------:|
