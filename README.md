@@ -11,7 +11,7 @@
   ---------------------
 ### 𝐈 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐉𝐚𝐯𝐚 𝐚𝐧𝐝 𝐜#
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solji622&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ha2ram17&layout=compact)
  
  | 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 | 𝐄𝐓𝐂 | 𝐄𝐝𝐢𝐭𝐨𝐫 |
 |:--------:|:--------:|:--------:|
